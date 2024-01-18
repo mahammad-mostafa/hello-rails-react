@@ -12,6 +12,7 @@ const App = () => (
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Greeting />} />
+          <Route path="*" element={<h1>404 Not Found</h1>} />
         </Route>
       </Routes>
     </BrowserRouter>
