@@ -7,4 +7,6 @@ Rails.application.routes.draw do
 
   # Defines the root path route ("/")
   root "root#index"
+  get "api/greetings", to: "greetings#index"
+  get "*path" => "root#index"
 end
