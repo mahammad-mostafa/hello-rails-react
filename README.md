@@ -28,9 +28,9 @@ Check the below contents for further details about this project.
 # 📖 Description
 
 This repository is about a simple greeting text in a single page.
-This project configured `Rails` to use `jsbundler-gem` which allows using `React`.
+This project configured `Rails` to use `jsbundling` gem which allows using `React`.
 It also connects with `PostgreSQL` database & follows the `GitFlow` workflow.
-State management in `React` is implemeneted using `Redux` & `Redux Toolkit`.
+State management in `React` is implemented using `Redux` & `Redux Toolkit`.
 Remote data fetching from the backend is done with `Thunk` api.
 Navigation inside the app is implemented using `React Router`.
 Linters are used for (`Ruby` / `JavaScript` / `CSS`).
