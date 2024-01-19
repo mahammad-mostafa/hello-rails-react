@@ -35,7 +35,6 @@ Remote data fetching from the backend is done with `Thunk` api.
 Navigation inside the app is implemented using `React Router`.
 Linters are used for (`Ruby` / `JavaScript` / `CSS`).
 
-
 📌 **Tech Stack:**
 - Backend language is `Ruby`
 - Backend Framework used is `Rails`
