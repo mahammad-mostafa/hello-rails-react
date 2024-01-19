@@ -4,7 +4,7 @@
 
 # 🏷️ Hello Rails React
 
-This is the first project in the full stack   capstone module in the **Microverse** program.
+This is the first project in the full stack capstone module in the **Microverse** program.
 <br/>
 Check the below contents for further details about this project.
 
