@@ -49,7 +49,7 @@ Linters are used for (`Ruby` / `JavaScript` / `CSS`).
 - Basic header & footer structure
 - Button to generate random greeting
 - Not found page for invalid pages
-- Special route for API endpoints  
+- Special route for API endpoints
 
 <p align="right"><a href="#title">back to top</a></p>
 
